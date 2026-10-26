@@ -7,5 +7,5 @@ int main ()
               short int var2=SHRT_MAX;
                 
    printf("range of short signed integer is from:%dto %d",var1,var2);
-             return 0 ;
-             }
+             return 0 ;}
+             
